@@ -20,7 +20,7 @@ public class Database {
     public static class DatabaseBuilder{
 
 //    Step3:copy all database data
-    private final DatabaseDetails databaseDetails = new DatabaseDetails();
+    private DatabaseDetails databaseDetails = new DatabaseDetails();
 
 //    Step4: create fluent interfaces
     public DatabaseBuilder withUrl(String host, int port){
