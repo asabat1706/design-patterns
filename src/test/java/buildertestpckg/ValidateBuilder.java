@@ -1,9 +1,9 @@
 package buildertestpckg;
 
-import builder.Database;
-import builder.DatabaseType;
-import builder.FaultyDatabase;
-import builder.Student;
+import creational.builder.Database;
+import creational.builder.DatabaseType;
+import creational.builder.FaultyDatabase;
+import creational.builder.Student;
 import org.junit.Assert;
 import org.junit.Test;
 

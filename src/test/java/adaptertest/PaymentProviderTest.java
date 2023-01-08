@@ -1,9 +1,9 @@
 package adaptertest;
 
-import adapter.RazorPayAdapter;
-import adapter.interfaces.PaymentProvider;
-import adapter.models.PaymentRequest;
-import adapter.models.PaymentStatus;
+import structural.adapter.*;
+import structural.adapter.interfaces.PaymentProvider;
+import structural.adapter.models.PaymentRequest;
+import structural.adapter.models.PaymentStatus;
 import org.junit.Assert;
 import org.junit.Before;
 import org.junit.Test;

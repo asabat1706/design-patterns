@@ -4,10 +4,9 @@ import org.junit.After;
 import org.junit.Assert;
 import org.junit.Before;
 import org.junit.Test;
-import prototype.BackgroundObjType;
-import prototype.BackgroundObject;
-import prototype.BackgroundRegistry;
-import prototype.GenericRegistry;
+import creational.prototype.BackgroundObjType;
+import creational.prototype.BackgroundObject;
+import creational.prototype.GenericRegistry;
 
 public class prototypetest {
 

@@ -1,11 +1,9 @@
 package factorymethodtest;
 
-import factory.factorymethod.PrimaryButtonfactory;
-import factory.model.Button;
-import factory.model.PrimaryButton;
-import factory.model.RoundButton;
-import factory.factorymethod.PrimaryButtonfactory;
-import factory.factorymethod.ButtonFactory;
+import creational.factory.factorymethod.PrimaryButtonfactory;
+import creational.factory.model.Button;
+import creational.factory.model.PrimaryButton;
+import creational.factory.factorymethod.ButtonFactory;
 import org.junit.Assert;
 import org.junit.Before;
 import org.junit.Test;

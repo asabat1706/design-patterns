@@ -2,8 +2,8 @@ package singletontest;
 
 import org.junit.Assert;
 import org.junit.Test;
-import singleton.ConnectionPoolEagerLoad;
-import singleton.ConnectionPoolLazyLoad;
+import creational.singleton.ConnectionPoolEagerLoad;
+import creational.singleton.ConnectionPoolLazyLoad;
 
 public class ValidateSingleton {
 

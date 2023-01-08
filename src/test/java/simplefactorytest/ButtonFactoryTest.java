@@ -1,9 +1,9 @@
 package simplefactorytest;
 
-import factory.model.Button;
-import factory.simplefactory.ButtonFactory;
-import factory.simplefactory.Platform;
-import factory.model.RoundButton;
+import creational.factory.model.Button;
+import creational.factory.simplefactory.ButtonFactory;
+import creational.factory.simplefactory.Platform;
+import creational.factory.model.RoundButton;
 import org.junit.Assert;
 import org.junit.Test;
 
